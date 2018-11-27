@@ -1,0 +1,39 @@
+.header{
+
+}
+.h1{
+    text-align: center;
+    background-color: red;
+    color: #00BFFF	 ;
+}
+
+.h2{
+text-align: center;
+color: white;
+}
+
+
+body{
+    background-image: url("https://northeastwisdom.org/wp-content/uploads/2016/11/american-flag-1150851.jpg");
+
+}
+
+img{
+    width: 200px;
+}
+
+.iron{ 
+    text-align: center;
+}
+
+.man{
+  text-align: center;  
+}
+
+h3{ 
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+
